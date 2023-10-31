@@ -4,7 +4,7 @@ function start(){
   document.getElementById('start').style.display ="none "
       var textContainer = document.getElementById("Mess");
 var text = `-^Speedoffx2              ...       -^Clear
-    -^SpeedDefx2  the game is presented by krystian kashumy.github.io released in just 5 days for 24 hours today is the first demo release. Attention people with hypersensitivity to fear better not play it. the game has no jump scares or blood and other similar events   
+    -^SpeedDefx2  the game is presented by kaydeion released in just 5 days for 24 hours today is the first demo release. Attention people with hypersensitivity to fear better not play it. run Run RUN   
     
     For now is black screen for end game 
     Wait for it rhis game is 3D with amazing shaders 
